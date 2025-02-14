@@ -20,7 +20,7 @@ My solution implements a modern data pipeline using the following components:
 7. **Authentication**: Azure Active Directory for Databricks access
 8. **Visualization**: Power BI dashboard for insights
 
-![Architecture Diagram](#images/Employee-Project-Architecture.gif)
+![Architecture Diagram](images/Employee-Project-Architecture.gif)
 
 
 ## Data Source
@@ -117,7 +117,7 @@ The employee data was sourced from the [test_db](https://github.com/datacharmer/
 
 ## Employee Analytics Dashboard Analysis
 
-![Employee Dashboard](#images/Employee-Project-Architecture.gif) 
+![Employee Dashboard](images/Employee_Dashboard.png) 
 
 This dashboard provides a comprehensive view of the organization's workforce metrics, covering headcount, employee status, gender distribution, tenure, promotions, salaries, and attrition trends.
 
